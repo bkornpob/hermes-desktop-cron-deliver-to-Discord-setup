@@ -11,22 +11,6 @@
             "id": "43c0c8415d8d9d96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "222552fef656164d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a12d8b3ad8ad8a3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -199,10 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a12d8b3ad8ad8a3",
+  "active": "43c0c8415d8d9d96",
   "lastOpenFiles": [
-    "1.md",
+    "Pasted image 20260521021549.png",
+    "Pasted image 20260521012513.png",
     "README.md",
+    "backup.md",
+    "1.md",
     "teach me how to bake ollama models step-by-step fr.md",
     "1 1.md",
     "2.md"
