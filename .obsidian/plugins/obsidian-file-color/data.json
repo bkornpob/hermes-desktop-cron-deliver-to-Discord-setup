@@ -1,0 +1,114 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "86RLelrwWh16JaGUP8QDx",
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "id": "oD9Hm4K6_ULVoootmtRtD",
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "id": "cWBaVbXzbymf92N8WkKHm",
+      "name": "gray",
+      "value": "#8f8f8f"
+    },
+    {
+      "id": "e-ppcBN1iIu-FmVHr-t39",
+      "name": "🔴 red-rainbow-1",
+      "value": "#ff0000"
+    },
+    {
+      "id": "G-3z390BcUIdVN2adp3UW",
+      "name": "🟠 orange-rainbow-2",
+      "value": "#ff7f00"
+    },
+    {
+      "id": "KnzYgSIrKNC4zCeLqL7PY",
+      "name": "🟡 yellow-rainbow-3",
+      "value": "#ffff00"
+    },
+    {
+      "id": "iARhWDsdfZ2eDCS8rFzLV",
+      "name": "🟢 green-rainbow-4",
+      "value": "#00ff00"
+    },
+    {
+      "id": "pwhCxrJ-E0fegQBBJMlTk",
+      "name": "🔵 blue-rainblow-5",
+      "value": "#0000ff"
+    },
+    {
+      "id": "AOWOENVpGTYOHt03ncTgD",
+      "name": "🟣 indigo-rainbow-6",
+      "value": "#4b0082"
+    },
+    {
+      "id": "d1bTUPZl5ZlVa3q8YDPcZ",
+      "name": "🌸 violet-rainbow-7",
+      "value": "#9400d3"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "/",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "Pasted image 20260225034611.png",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "Evolve_and_Elevate/stuff_Obsidian/Untitled 3.md",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "BATJB",
+      "color": "iARhWDsdfZ2eDCS8rFzLV"
+    },
+    {
+      "path": "_templates",
+      "color": "e-ppcBN1iIu-FmVHr-t39"
+    },
+    {
+      "path": "Anote",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "shit",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "CODEx",
+      "color": "KnzYgSIrKNC4zCeLqL7PY"
+    },
+    {
+      "path": "RAG",
+      "color": "e-ppcBN1iIu-FmVHr-t39"
+    },
+    {
+      "path": "Ollama_setup",
+      "color": "e-ppcBN1iIu-FmVHr-t39"
+    },
+    {
+      "path": "Evolve_and_Elevate",
+      "color": "pwhCxrJ-E0fegQBBJMlTk"
+    },
+    {
+      "path": "ZADDY-crack",
+      "color": "iARhWDsdfZ2eDCS8rFzLV"
+    },
+    {
+      "path": "vibe_HANDBOOK",
+      "color": "d1bTUPZl5ZlVa3q8YDPcZ"
+    },
+    {
+      "path": "Zspreadbook",
+      "color": "G-3z390BcUIdVN2adp3UW"
+    }
+  ]
+}

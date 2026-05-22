@@ -65,9 +65,8 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/cron
 - output: `~/.hermes/cron/output/{job_id}/`
 
 **Usage:**
-![[Pasted image 20260522225603.png]]
-![[Pasted image 20260522225231.png]]
-![[Pasted image 20260522225603.png]]
+![](Pasted%20image%2020260522225231.png)
+![](Pasted%20image%2020260522225603.png)
   /cron
   /cron list
   /cron add "every 2h" "check server status"
@@ -127,10 +126,11 @@ path `~/.hermes/cron/jobs.json`
 
 ---
 ### hermes-desktop Schedules limitations
-
-![[Pasted image 20260522220658.png]]
-
-![[Pasted image 20260522220822.png]]
+![](Pasted%20image%2020260522220658.png)
+![](Pasted%20image%2020260522220822.png)
 
 ❌ {add, edit, run}
 ✅ {list, pause, resume, remove}
+
+---
+
