@@ -28,6 +28,7 @@ Schedule a hermes-agent cron job that sends a message to a Discord channel.
 - [ ] Discord bot hooked to hermes-agent is functional.
 	guide: https://github.com/bkornpob/hermes-desktop-discord-bot-setup  
 - [ ] in Discord, run `/sethome` for the output location
+	(optional) this command will set default output path for cron jobs
 
 ---
 
@@ -41,12 +42,15 @@ Schedule a hermes-agent cron job that sends a message to a Discord channel.
 		https://github.com/bkornpob/hermes-desktop-discord-bot-setup
 - [ ] `/cron list` ... check added task and `<job_id>`
 - [ ] `/cron run <job_id>` ... to run one-shot test
-- [ ] verify output `~/.hermes/cron/output/<job_id>/`
+- [ ] verify output 
+	- [ ] `~/.hermes/cron/output/<job_id>/`
+	- [ ] in Discord
+		if showing in local log, but not in Discord, check `~/.hermes/cron/jobs.json` directly to verify `deliver` params ... for directing to specific discord channel, set to this value `discord:{channel_ID}` (asking agent to edit cron job is recommended over manual edit).
 - [ ] edit task:
 	- [ ] `/cron pause <job_id>` ... to pause before edit (toggle off)
 	- [ ] to edit the task
 		- [ ] `/cron edit --key {value,"value"}` OR
-		- [ ] edit `~/.hermes/cron/jobs.json`
+		- [ ] edit `~/.hermes/cron/jobs.json` (WARNING: save backup, manual edit may corrupt the file)
 	- [ ] `/cron run <job_id>` ... then verify output, iterate ... until happy
 		- [ ] `/cron remove <job_id>` ... to remove the task and start over ... if needed
 	- [ ] `/cron resume <job_id>` ... toggle on
